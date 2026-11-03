@@ -1,0 +1,6 @@
+{
+  "name": "SynapseCards - Note to Flashcard Studio",
+  "description": "Transform raw study notes, lecture PDFs, and markdown into high-retention atomic flashcards with Anki export, KaTeX math, and active-recall practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
